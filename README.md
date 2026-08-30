@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
 | ------- |

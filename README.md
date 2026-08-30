@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 ## Tree
 |  |
 | ------- |
@@ -104,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

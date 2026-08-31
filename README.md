@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 ## Tree
 |  |
 | ------- |
@@ -101,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |

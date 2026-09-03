@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |

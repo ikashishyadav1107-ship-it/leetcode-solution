@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Math
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 ## Tree
 |  |
 | ------- |

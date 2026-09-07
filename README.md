@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1051-height-checker) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

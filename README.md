@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Polygons
 |  |

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
+| [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
+| [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
+| [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 ## Bubble Sort
 |  |
 | ------- |

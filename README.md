@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 ## Quicksort
 |  |

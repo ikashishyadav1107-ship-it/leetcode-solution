@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization

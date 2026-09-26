@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

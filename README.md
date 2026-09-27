@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |

@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0338-counting-bits) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->

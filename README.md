@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |

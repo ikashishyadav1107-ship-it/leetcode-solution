@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0392-is-subsequence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0620-not-boring-movies) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0392-is-subsequence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
+| [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming

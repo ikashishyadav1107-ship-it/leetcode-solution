@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0784-letter-case-permutation](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0784-letter-case-permutation) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 ## Array
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0338-counting-bits) |
+| [0784-letter-case-permutation](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0784-letter-case-permutation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Database
 |  |
@@ -281,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+| [0784-letter-case-permutation](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->

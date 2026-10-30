@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -159,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -320,9 +324,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->

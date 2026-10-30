@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Brainteaser
 |  |
 | ------- |
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0912-sort-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Memoization
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Polygons
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Brainteaser
 |  |

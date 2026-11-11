@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quicksort
 |  |
 | ------- |

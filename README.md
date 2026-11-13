@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3024-type-of-triangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2747-count-zero-request-servers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Polygons
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
@@ -370,4 +374,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

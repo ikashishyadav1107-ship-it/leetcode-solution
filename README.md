@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |

@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1051-height-checker) |
 | [1267-count-servers-that-communicate](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2410-maximum-matching-of-players-with-trainers) |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0784-letter-case-permutation](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0784-letter-case-permutation) |
+| [1763-longest-nice-substring](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0912-sort-an-array) |
+| [1763-longest-nice-substring](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [2540-minimum-common-value](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2747-count-zero-request-servers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2747-count-zero-request-servers](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0784-letter-case-permutation) |
+| [1763-longest-nice-substring](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Database

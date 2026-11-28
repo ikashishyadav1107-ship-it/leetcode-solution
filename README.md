@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0784-letter-case-permutation](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/0784-letter-case-permutation) |
 | [1763-longest-nice-substring](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1763-longest-nice-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/ikashishyadav1107-ship-it/leetcode-solution/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
